@@ -14,12 +14,10 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathameshpowar1910&count_private=true&show_icons=true&&theme=react&include_all_commits=true" width = "47.5%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshpowar1910&theme=react" width = "50%">
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
@@ -28,10 +26,6 @@
 
 
 <!--
-**prathameshpowar1910/prathameshpowar1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
