@@ -10,7 +10,7 @@
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,jquery,html,css,tailwind,materialui,mysql,postgres,azure,postman,php,c,python,cpp,java,git,github,linux,figma,idea,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,jquery,html,css,tailwind,styledcomponents,materialui,mysql,postgres,azure,postman,php,c,python,cpp,java,git,github,linux,figma,idea,bootstrap&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 <p align="center">
