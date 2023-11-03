@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshpowar1910&theme=react" width = "50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshpowar1910&theme=react" width = "100%">
 </p>
 
 <!--
