@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/prathamesh_1910" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="prathamesh_1910" /></a>
-<a href="https://linkedin.com/in/prathamesh-powar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="prathameshpowar-dev" /></a>
+<a href="https://www.linkedin.com/in/prathameshpowar-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="prathameshpowar-dev" /></a>
 <a href="https://instagram.com/prathamesh_1910" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="prathamesh_1910"/></a>
 </p>
 <h3 ><a href="https://drive.google.com/file/d/1X0JUYMO8NVYQ_YtYsWOmUiN5nL8cmokd/view?usp=sharing">Here's my Resume</a></h3>
