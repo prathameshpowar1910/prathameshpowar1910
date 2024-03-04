@@ -16,9 +16,6 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshpowar1910&theme=react" width = "100%">
 </p>
-       
-## Holopin Badges
-[![An image of @prathameshpowar1910's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathameshpowar1910)](https://holopin.io/@prathameshpowar1910)
 
 <!--
 - 🔭 I’m currently working on ...
