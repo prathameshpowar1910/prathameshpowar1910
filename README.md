@@ -12,9 +12,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,jquery,html,css,tailwind,styledcomponents,materialui,mysql,postgres,azure,postman,php,c,python,cpp,java,git,github,linux,figma,bootstrap&theme=dark)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics 📃
 
-<h1 align="center">GitHub Statistics 📃</h1>
 <table>
   <tr>
     <td colspan = "2"><a href="https://github.com/prathameshpowar1910"><img width=100% src="https://github-profile-trophy.vercel.app/?username=prathameshpowar1910&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
