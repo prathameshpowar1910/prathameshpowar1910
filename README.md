@@ -1,4 +1,5 @@
-![](https://github.com/prathameshpowar1910/prathameshpowar1910/assets/91151201/4ccebf49-647b-4e09-ab89-0d04ff25301b)
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/e920608d-dc86-48df-8315-55252f4f689c)
+
 <h1 align="center">Hi 👋, I'm Prathamesh Powar</h1>
 <h3 align="left">Connect with me</h3>
 <p align="left">
